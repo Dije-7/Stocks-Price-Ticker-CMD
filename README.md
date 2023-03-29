@@ -30,3 +30,6 @@ python3 stock-ticker.py watchlist.txt
 * Yahoo Finance API v7
 * [pandas](https://pandas.pydata.org/)
 * [colorama](https://pypi.org/project/colorama/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: image/demo.png

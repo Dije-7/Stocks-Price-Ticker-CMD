@@ -1,6 +1,6 @@
 # Stocks-Price-Ticker-CMD
 
-> Real-time stock indices and tickers in your terminal
+> Real-time stock indices and tickers in your terminal.
 
 [![Product Screenshot][product-screenshot]](https://github.com/Dije-7/Stocks-Price-Ticker-CMD)
 
